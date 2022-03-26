@@ -12,7 +12,7 @@
 
 Способность разрабатывать технику «с нуля»: проектирование схемы, трассировка печатной платы, написание и отладка ПО, разработка документации, монтаж и настройка готовых изделий. Большой опыт практической работы с микроконтроллерами, программирования с учетом специфики встроенных устройств. Разработка встроенного ПО (C, ассемблер) и ПО верхнего уровня (C#, Python).  
 
-Практические навыки работы с микропроцессорами и микроконтроллерами семейств ARM Cortex-A и Cortex-M (NXP Layerscape, NXP i.MX 6, STM32, Atmel, «Элвис»), AVR, i51, PIC, QUICC32; с интерфейсами, протоколами и технологиями: DDR3/4, PCI Express, USB, SATA, 1..100 Gb Ethernet, Wi-Fi, GSM/GPRS, GPS/ГЛОНАСС, Bluetooth, SPI, I2C, 1-Wire, RS-232, RS-485, RS-422, CAN, E1/E2/E3, HDSL.  
+Практические навыки работы с микропроцессорами и микроконтроллерами семейств ARM Cortex-A и Cortex-M (NXP Layerscape, NXP i.MX 6, STM32, Atmel AT91SAM9, «Элвис»), AVR, PIC, i51, Motorola MC68MH360; с интерфейсами, протоколами и технологиями: DDR3/4, PCI Express, USB, SATA, 1..100 Gb Ethernet, Wi-Fi, GSM/GPRS, GPS/ГЛОНАСС, Bluetooth, SPI, I2C, 1-Wire, RS-232, RS-485, RS-422, CAN, E1/E2/E3, HDSL.  
 Работаю со следующим специализированным ПО: Microsoft Visual Studio, PyCharm, Selenium, Altium Designer, Cadence OrCAD Capture, Micro-Cap, PCAD, Specctra, IAR EW, Eclipse, Keil µVision, SolidWorks, TINA, CV AVR.  
 
 **Опыт работы**  
