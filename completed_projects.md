@@ -32,7 +32,7 @@
 
 **Однофазный счетчик электроэнергии** на STM32F102 с Wi-Fi, радиоканалом и возможностью удаленной коммутации потребителя.
 
-**GPS/ГЛОНАСС маячок** для мониторинга подвижных объектов и транспортных средств с передачей данных на сервер по каналам GPRS на ATmega128L и GSM/GPRS-модуля SIM508. Благодаря режиму глубокой гибернации система может до полугода поддерживать свое функционирование, периодически передавая местонахождение контролируемого объекта.
+**GPS/ГЛОНАСС [маячок](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/gsm_tracker/GPS_GSM_Tracker.pcb.top.png)** для мониторинга подвижных объектов и транспортных средств с передачей данных на сервер по каналам GPRS на ATmega128L и GSM/GPRS-модуля SIM508. Благодаря режиму глубокой гибернации система может до полугода поддерживать свое функционирование, периодически передавая местонахождение контролируемого объекта.
 
 **GSM-система контроля доступа** и охраны периметра на STM32F102 и GSM/GPRS-модуля SIM900R. Работа с DTMF, SMS, голосовые звонки абонентам, голосовое меню, электронные ключи iButton. Взаимодействие с ПК через интерфейс USB.
 
@@ -72,4 +72,6 @@
 
 **Модули [Arduino Mega](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/round_arduino/round_arduino_top.jpg), [RAMPS](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/round_ramps/ramps.jpg) и [RepRap](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/reprap/reprap.jpg) Controller** на базе микроконтроллеров ATmega2560 с измененной относительно оригинала схемотехникой и модифицированными печатными платами, предназначенные для установки в 3D-принтеры с нестандартной компоновкой.
 
-**Отладочные платы** для микроконтроллеров ATmega и AT91SAM7S, по функционалу примерно соответствующие изделиям AVR-USB-162 и SAM7-P256 компании «Olimex».
+**Отладочные платы** для микроконтроллеров ATmega и [AT91SAM7S](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/breadboard/AT91SAM7S256_Development_Board.pcb.top.png), по функционалу примерно соответствующие изделиям AVR-USB-162 и SAM7-P256 компании «Olimex».
+
+**Импульсные [блоки питания](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/power_supply/switch_power_supply.jpg)**, в том числе с использованием самостоятельно рассчитанных и изготовленных трансформаторов.
