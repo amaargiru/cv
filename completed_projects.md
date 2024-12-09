@@ -36,7 +36,7 @@
 
 **Микропотребляющий [сенсор приближения](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/wi-fi-frame/wi-fi-frame-3d-pcb.png) с Wi-Fi** на STM32L051 для подсчёта посетителей выставок, заинтересовавшихся тем или иным экспонатом.
 
-**GPS/ГЛОНАСС [маячок](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/gsm_tracker/GPS_GSM_Tracker.pcb.top.png)** для мониторинга подвижных объектов и транспортных средств с передачей данных на сервер по каналам GPRS на ATmega128L и GSM/GPRS-модуля SIM508. Благодаря режиму глубокой гибернации система может до полугода поддерживать свое функционирование, периодически передавая местонахождение контролируемого объекта.
+**GPS/ГЛОНАСС [маячок](https://raw.githubusercontent.com/amaargiru/cv/refs/heads/master/pics/completed_projects/gps-gsm-box/gps-gsm-box.jpg)** для мониторинга подвижных объектов и транспортных средств с передачей данных на сервер по каналам GPRS на ATmega128L и GSM/GPRS-модуля SIM508. Благодаря режиму глубокой гибернации система может до полугода поддерживать свое функционирование, периодически передавая местонахождение контролируемого объекта.
 
 **GSM-система контроля доступа** и охраны периметра на STM32F102 и GSM/GPRS-модуля SIM900R. Работа с DTMF, SMS, голосовые звонки абонентам, голосовое меню, электронные ключи iButton. Взаимодействие с ПК через интерфейс USB.
 
